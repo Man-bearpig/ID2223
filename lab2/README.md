@@ -5,6 +5,7 @@ Hugging Face app:https://huggingface.co/spaces/Manbearpig01/whisper_swe
 Task 2:
 
 1. Ways of improvements
+
 (a) model-centric approach - e.g., tune hyperparameters, change the
 fine-tuning model architecture, etc
 

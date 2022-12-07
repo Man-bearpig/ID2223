@@ -6,8 +6,7 @@ Hugging Face app:https://huggingface.co/spaces/Manbearpig01/whisper_swe
 
 ## 1. Ways of improvements
 
-(a) model-centric approach - e.g., tune hyperparameters, change the
-fine-tuning model architecture, etc
+### (a) model-centric approach
 
 (a1) Adjust the learning rate. Smaller learning rate here might result in ending up at a less optimized result, but also has less possibility to miss the target.
 
@@ -17,7 +16,7 @@ fine-tuning model architecture, etc
 
 (a4) As in Swedish there might be relation between words in seperate locations, we can set the evaluation intervals bigger.
 
-(b) data-centric approach : 
+### (b) data-centric approach : 
 
 (b1)Add new sources such as audio from youtube channels. They provide high-quality audio and some already have available subtitles.
 

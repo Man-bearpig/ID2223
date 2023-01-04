@@ -5,6 +5,7 @@ Predict the AQI in Helsinki for the next 7 days.
 # Hugging face url
 
 
+To see the predictions, press "Submit" with random input.
 
 # Data source
 

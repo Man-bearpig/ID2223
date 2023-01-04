@@ -1,6 +1,9 @@
 # Goal
+Air quality index (AQI) is a measure used to describe the level of air pollution in a particular area. It is calculated based on the levels of certain pollutants in the air, such as particulate matter, ozone, carbon monoxide, and nitrogen dioxide. The higher the AQI, the more polluted the air is.
 
-Predict the AQI in Helsinki for the next 7 days.
+Predicting AQI in Helsinki can be useful for a variety of purposes, such as to help people with respiratory issues plan their activities, to inform decisions about transportation modes, and to support policy makers in developing strategies to reduce air pollution.
+
+This project aims at predicting the AQI in Helsinki for the next 7 days based on previous weather and air conditions.
 
 # Hugging Face url
 

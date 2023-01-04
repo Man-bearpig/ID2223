@@ -1,5 +1,17 @@
-Goal: Predict the AQI in Helsinki for the next 7 days.
+#Goal
 
-Hugging face url:
+Predict the AQI in Helsinki for the next 7 days.
 
-Data source:
+#Hugging face url
+
+
+
+#Data source
+
+##Air quality
+
+https://aqicn.org//here/
+
+##Weather conditions
+
+https://www.visualcrossing.com/

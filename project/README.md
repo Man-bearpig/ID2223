@@ -7,7 +7,7 @@ This project aims at predicting the AQI in Helsinki for the next 7 days based on
 
 # Hugging Face url
 
-
+![Image text](https://raw.githubusercontent.com/Man-bearpig/ID2223/main/project/app.png)
 To see the predictions, press "Submit" with random input.
 
 # Data Source

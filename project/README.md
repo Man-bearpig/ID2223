@@ -32,4 +32,4 @@ The project include the following steps:
 3. Use Feature_pipeline.py to create feature pipelines and update daily data.
 4. Use Feature_views_and_training_dataset.py to combine feature piplines into a feature view and generate training pipline.
 5. Use Model_training.py to train the model.
-6. Use app.py to start a Gradio app and predict AQI in Helsinki in the next 7 days.
+6. Use app.py to start a Gradio app and use daily updated data to predict AQI in Helsinki in the next 7 days.
